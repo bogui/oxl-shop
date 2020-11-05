@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "oxl-shop"
+    }
+  },
+  "defaultProject": "oxl-shop",
+  "cli": {
+    "analytics": false
+  }
 }
