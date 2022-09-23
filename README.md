@@ -1,5 +1,8 @@
 # OxlShop
 
+> **Note**
+> This project is abandoned! Will be removed in near future!
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
 ## Development server
